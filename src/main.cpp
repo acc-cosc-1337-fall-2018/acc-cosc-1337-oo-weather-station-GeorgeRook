@@ -1,5 +1,6 @@
 #include "clock.h"
 #include<iostream>
+#include<thread>
 
 int main() 
 {
